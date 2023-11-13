@@ -16,5 +16,3 @@ Welcome to my Github profile !
 
 ## Personal Projects:
 
-|Project|Description|
-|---|---|
