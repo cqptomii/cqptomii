@@ -18,4 +18,3 @@ Welcome to my Github profile !
 
 |Project|Description|
 |---|---|
-| [**HEX-Game**](https://github.com/cqptomii/IF2Project-HEX-Game) | Hex-Game using SDL with customizable grid size and two play modes, as my first school project. Made in C language.|
