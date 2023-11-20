@@ -6,7 +6,7 @@ Welcome to my Github profile !
 -    I'm a 19 years old french student, studying at [UTBM](https://utbm.fr/ " ").
 - 👀 I’m interested in Graphics Programming (OPENGL/SDL), Software development
 - 🌱 I’m currently learning Algorithms, C/C++,  
-- 💞️ I’m currently working on differents project: password Manager / File Manager
+- 💞️ I’m currently working on differents project: password Manager
 - 📫 How to reach me:
 
 ## UTBM's Projects:
