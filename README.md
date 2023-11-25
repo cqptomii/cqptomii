@@ -10,10 +10,12 @@ Welcome to my Github profile !
 - 📫 How to reach me:
 
 ## UTBM's Projects:
-|Project|Description|
-|---|---|
-| [**HEX-Game**](https://github.com/cqptomii/IF2Project-HEX-Game) | Hex-Game using SDL with customizable grid size and two play modes, as my first school project. Made in C language.|
-| [**Galactic-Commerce-System**](https://github.com/cqptomii/IF3-Project-Galactic-Commerce-System) | Web game using Html/Css/Php and mysql where you can create you own team and fleet to accomplish mission.|
+|Project|Description|Status|
+|---|---|---|
+| [**HEX-Game**](https://github.com/cqptomii/IF2Project-HEX-Game) | Hex-Game using SDL with customizable grid size and two play modes, as my first school project. Made in C language.|✅|
+| [**Galactic-Commerce-System**](https://github.com/cqptomii/IF3-Project-Galactic-Commerce-System) | Web game using Html/Css/Php and mysql where you can create you own team and fleet to accomplish mission.|✅|
 
 ## Personal Projects:
-
+|Project|Description|Status|
+|---|---|---|
+| [**AES---C**](https://github.com/cqptomii/AES---C) | AES implementation in C language.|✖️|
