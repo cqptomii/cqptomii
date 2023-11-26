@@ -18,4 +18,5 @@ Welcome to my Github profile !
 ## Personal Projects:
 |Project|Description|Status|
 |---|---|---|
-| [**AES---C**](https://github.com/cqptomii/AES---C) | AES implementation in C language.|✖️|
+| [**AES---C**](https://github.com/cqptomii/AES---C) | AES implementation in C language.|✅|
+| [**Key-Finder**](https://github.com/cqptomii/Key-Finder) | Password manager made in C | ❌|
