@@ -20,3 +20,5 @@ Welcome to my Github profile !
 |---|---|---|
 | [**AES---C**](https://github.com/cqptomii/AES---C) | AES implementation in C language.|✅|
 | [**Key-Finder**](https://github.com/cqptomii/Key-Finder) | Password manager made in C | ❌|
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=cqptomii&theme=algolia&show_icons=true)](https://github.com/cqptomii)     [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cqptomii&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/cqptomii)
