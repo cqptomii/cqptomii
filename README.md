@@ -6,8 +6,8 @@ Welcome to my Github profile !
 -    I'm a 19 years old french student, studying at [UTBM](https://utbm.fr/ " ").
 - 👀 I’m interested in Graphics Programming (OPENGL/SDL), Software development
 - 🌱 I’m currently learning Algorithms, C/C++,  
-- 💞️ I’m currently working on differents project: password Manager
-- 📫 How to reach me:
+- 💞️ I’m currently working on UE5 game in order to learn blueprint and C++
+- 📫 How to reach me[linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
 
 ## UTBM's Projects:
 |Project|Description|Status|
