@@ -21,5 +21,8 @@ Welcome to my Github profile !
 |---|---|---|
 | [**AES---C**](https://github.com/cqptomii/AES---C) | AES implementation in C language.|✅|
 | [**Keygen**](https://github.com/cqptomii/Keygen) | Password generator made in C | ✅|
+| [**Connect Four**](https://github.com/cqptomii/Connect-Four) | Connect four game using SDL2 and object oriented programming, as an introduction to POO and SDL|✅|
+| [**Pong**](https://github.com/cqptomii/Pong) | Pong game using SDL and POO in C++, in order to strengthen SDL comprehension and object oriented programming|❌|
+| [**Galaga**](https://github.com/cqptomii/Galaga) | Galaga game using SDL and POO in C++| ... |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=cqptomii&theme=algolia&show_icons=true)](https://github.com/cqptomii)     [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cqptomii&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/cqptomii)
