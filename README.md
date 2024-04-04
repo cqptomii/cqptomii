@@ -4,9 +4,9 @@ Welcome to my Github profile !
 
 ## About me
 -    I'm a 19 years old french student, studying at [UTBM](https://utbm.fr/ " ").
-- 👀 I’m interested in Graphics Programming (OPENGL/SDL), Software development
-- 🌱 I’m currently Object Oriented Java/C++ and Computer graphics,  
-- 💞️ I’m currently working on differents 2D games development using SDL and C++
+- 👀 I’m interested in Computer Graphics, Software development.
+- 🌱 I’m currently learning Object Oriented Java/C++ and Computer graphics,  
+- 💞️ I’m currently working on 3D rendering algorithms and on a minimalist graphic engine in C++ with OPENGL
 - 📫 How to reach me[linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
 
 ## UTBM's Projects:
