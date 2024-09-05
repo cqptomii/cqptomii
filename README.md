@@ -5,9 +5,9 @@ Welcome to my Github profile !
 ## About me
 -    I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ").
 - 👀 I’m interested in Computer Graphics, Software development.
-- 🌱 I’m currently learning Object Oriented Java/C++ and Computer graphics,  
-- 💞️ I’m currently working on 3D rendering algorithms and Graphic pipeline
-- 📫 How to reach me[linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
+- 🌱 I’m currently learning Object Oriented Java/C++, Parallel Computing, Networks basis, IA and financial management
+- 💞️ I’m currently working on algorithms, Computer Graphic and OPENGL
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
 
 ## UTBM's Projects:
 |Project|Description|Status|
@@ -15,8 +15,9 @@ Welcome to my Github profile !
 | [**HEX-Game**](https://github.com/cqptomii/IF2Project-HEX-Game) | Hex-Game using SDL with customizable grid size and two play modes, as my first school project. Made in C language.|✅|
 | [**Galactic-Commerce-System**](https://github.com/julesprrt/Galactic-Management-Commerce-System) | Web game using Html/Css/Php and mysql where you can create you own team and fleet to accomplish mission.|✅|
 | [**Air Controller**](https://github.com/cqptomii/IF3B-Project)| Air quality controller, made with node Red and C++ by using esp32 controller, sensors and actuators |✅|
-| [**r-sync command**](https://github.com/cqptomii/Projet-LP25)| r-sync command, made in Linux environment by using C langage |✅|
-| [**3 in 1 Game**](https://github.com/cqptomii/Projet-LP25)| Unity game which gather 3 mini game : Apple Catcher / Brick Breaker / Mini UFO ( R-type Game), several upgrade can be done on the Mini UFO including Bosses|✅|
+| [**r-sync command**](https://github.com/cqptomii/Projet-LP25)| r-sync command, made in Linux environment by using C langage |...|
+| [**One Hand**](https://github.com/cqptomii/One-Hand)| Reproduction of the French card Game "Réussite" implemented in Java |✅|
+| [**3 in 1 Game**](https://github.com/cqptomii/3-in-1-Game)| Unity game which gather 3 mini game : Apple Catcher / Brick Breaker / Mini UFO ( R-type Game), several upgrade can be done on the Mini UFO including Bosses|✅|
 
 
 ## Personal Projects:
