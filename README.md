@@ -5,8 +5,8 @@ Welcome to my Github profile !
 ## About me
 -    I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ").
 - 👀 I’m interested in Computer Graphics, Software development.
-- 🌱 I’m currently learning Object Oriented Java/C++, Parallel Computing, Networks basis, IA and financial management
-- 💞️ I’m currently working on algorithms, Computer Graphic and OPENGL
+- 🌱 I’m currently learning Object Oriented Java/C++, Parallel Computing, Networks basis, IA basics
+- 💞️ I’m currently working on Computer Graphic and OPENGL
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
 
 ## UTBM's Projects:
