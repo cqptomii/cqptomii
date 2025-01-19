@@ -6,7 +6,7 @@ Welcome to my Github profile !
 -    I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ").
 - 👀 I’m interested in Computer Graphics, Software development.
 - 🌱 I’m currently learning Object Oriented Java/C++, Parallel Computing, Networks basics, IA basics
-- 💞️ I’m currently working on Shading techniques and multithreading with OPENMP and CUDA
+- 💞️ I’m currently working on Shading techniques and multithreading with CUDA
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
 
 ## UTBM's Projects:
