@@ -15,10 +15,11 @@ Welcome to my Github profile !
 | [**HEX-Game**](https://github.com/cqptomii/IF2Project-HEX-Game) | Hex-Game using SDL with customizable grid size and two play modes, as my first school project. Made in C language.|✅|
 | [**Galactic-Commerce-System**](https://github.com/julesprrt/Galactic-Management-Commerce-System) | Web game using Html/Css/Php and mysql where you can create you own team and fleet to accomplish mission.|✅|
 | [**Air Controller**](https://github.com/cqptomii/IF3B-Project)| Air quality controller, made with node Red and C++ by using esp32 controller, sensors and actuators |✅|
+| [**Expert System**](https://github.com/julesprrt/ExpertSystemLO21)| Implementation of an Expert system made with C language, using the library SDL |...|
 | [**r-sync command**](https://github.com/cqptomii/Projet-LP25)| r-sync command, made in Linux environment by using C langage |...|
 | [**One Hand**](https://github.com/cqptomii/One-Hand)| Reproduction of the French card Game "Réussite" implemented in Java |✅|
 | [**3 in 1 Game**](https://github.com/cqptomii/3-in-1-Game)| Unity game which gather 3 mini game : Apple Catcher / Brick Breaker / Mini UFO ( R-type Game), several upgrade can be done on the Mini UFO including Bosses|✅|
-| [**UTBM Dice**](https://github.com/cqptomii/Troy_Dice)| Implementation of the board game "Troy Dice" in the UTBM univers, made in Java and designed with UML language|✅|
+| [**UTBM Dice**](https://github.com/cqptomii/Troy_Dice)| Implementation of the board game "Troy Dice" in the UTBM universe, made in Java and designed with UML language |✅|
 
 
 ## Personal Projects:
