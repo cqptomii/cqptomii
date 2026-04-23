@@ -5,8 +5,7 @@ Welcome to my Github profile !
 ## About me
 -    I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ").
 - 👀 I’m interested in Computer Graphics, Software development.
-- 🌱 I’m currently learning Android development with Kotlin, Operational research, SQL and NoSQL and Prompt Engineering
-- 💞️ I’m currently working on a NLP Benchmarking framework with the transformers lib
+- 🌱 I’m currently learning OpenGL and Rendering engine Architecture
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
 
 ## UTBM's Projects:
