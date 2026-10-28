@@ -5,7 +5,7 @@ Welcome to my Github profile !
 ## About me
 - 🇫🇷 I'm a 22-year-old French engineering student pursuing a double degree at [UTBM](https://utbm.fr/) and [UQAC](https://www.uqac.ca/).
 - 👀 I'm interested in Artificial Intelligence, Deep Learning, and Computer Graphics.
-- 🖥️ I'm particularly interested in AI research and training deep learning models on GPU clusters.
+- 📚 I'm currently learning Deep Learning, from CNNs and Autoencoders to Variational Autoencoders (VAEs), U-Nets, and Diffusion Models and Transformers Models, as well as Distributed Machine Learning, GPU Computing, and Apache Spark. 
 - 🌱 I’m currently working on NEAT algorithm and Game Engine when i have time
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/tom-fraisse-644475251/)
 
@@ -13,6 +13,7 @@ Welcome to my Github profile !
 ## Personal Projects:
 |Project|Description|Status|
 |---|---|---|
+| [**Deep-Learning-PlayGround**](https://github.com/cqptomii/Deep-Learning-PlayGround) | Studying various DL models from Supervised Learning to Attention models | ... |
 | [**NEAT-GEN**](https://github.com/cqptomii/NEAT-GEN) | Studying Generalization and Topological Complexity in Neuroevolution. | ... |
 | [**Engine**](https://github.com/cqptomii/Engine) | Game Engine built with OpenGL 4.6 |...|
 | [**TexFromPdf**](https://github.com/cqptomii/TexFromPDF) | Tool to extract text from PDF files. |✅|
